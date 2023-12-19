@@ -3,4 +3,4 @@ My name is Leon and I am a 19-year-old computer science student whose passion is
 ### Tech Stack 💻
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,mui,firebase,figma&perline=10)](https://skillicons.dev)
 ### Projects 📂
-1. > [Landing page](https://github.com/radoleon/projects/tree/main/project%201%20-%20landing%20page)https://github.com/radoleon/projects/tree/main/project%201%20-%20landing%20page)
+1. > Landing Page(https://github.com/radoleon/projects/tree/main/project%201%20-%20landing%20page)https://github.com/radoleon/projects/tree/main/project%201%20-%20landing%20page)
