@@ -5,11 +5,17 @@ My name is Leon and I am a 19-year-old computer science student whose passion is
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,mui,firebase,figma&perline=10)](https://skillicons.dev)
 
 ### Projects 📂
-> **1. [Landing Page](https://github.com/radoleon/projects/tree/c28a0f053c2c922c28de45cd1c4d453e9217d286/project%201%20-%20landing%20page)**
+> **1. [Landing Page](https://github.com/radoleon/projects/tree/main/project%201%20-%20landing%20page)**
 
-> **2. [Static Website](https://github.com/radoleon/projects/tree/c28a0f053c2c922c28de45cd1c4d453e9217d286/project%202%20-%20static%20website)**
+> **2. [Static Website](https://github.com/radoleon/projects/tree/main/project%202%20-%20static%20website)**
 
-> **3. [Calculator App](https://github.com/radoleon/projects/tree/c28a0f053c2c922c28de45cd1c4d453e9217d286/project%203%20-%20calculator%20app)**
+> **3. [Calculator App](https://github.com/radoleon/projects/tree/main/project%203%20-%20calculator%20app)**
+
+> **4. [Weather App](https://github.com/radoleon/projects/tree/main/project%204%20-%20weather%20app)**
+
+> **5. [Ecommerce Web](https://github.com/radoleon/projects/tree/main/project%205%20-%20ecommerce%20web)**
+
+> **6. [Social Media App](https://github.com/radoleon/projects/tree/main/project%206%20-%20social%20media%20app)**
 
 \
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=radoleon&theme=github_dark_dimmed&langs_count=6)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=radoleon&theme=github_dark_dimmed&langs_count=6&hide=tex)
