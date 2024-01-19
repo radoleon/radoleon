@@ -18,4 +18,4 @@ My name is Leon and I am a 19-year-old computer science student whose passion is
 > **6. [Social Media App](https://github.com/radoleon/projects/tree/main/project%206%20-%20social%20media%20app)**
 
 \
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=radoleon&theme=github_dark_dimmed&langs_count=6&hide=tex)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=radoleon&theme=github_dark_dimmed&hide=tex)
