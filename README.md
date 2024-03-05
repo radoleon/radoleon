@@ -11,4 +11,4 @@ My name is Leon and I am a 19-year-old computer science student whose passion is
 
 [^1]: Apart from these web development projects, my profile also contains some of the assignments I completed during my studies, as well as projects from other IT branches.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radoleon&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radoleon&theme=github_dark_dimmed&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
