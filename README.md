@@ -13,4 +13,4 @@ Most recent projects can be found in my school work repository [STU FIIT](https:
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radoleon&theme=github_dark_dimmed&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radoleon&theme=github_dark_dimmed&langs_count=10&hide=html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
