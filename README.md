@@ -2,7 +2,7 @@
 Based in Bratislava, Slovakia. Currently studying computer science at STU FIIT and working part-time as a fullstack web developer at Asseco CE Cloud.
 
 ### Skills 🔧
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,react,next,angular,jest,firebase,supabase,postgres,dotnet,cs,c,python,pytorch,java,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,react,next,angular,jest,firebase,supabase,postgres,dotnet,cs,c,python,pytorch,java,docker,laravel,rust&perline=8)](https://skillicons.dev)
 
 ### Projects 📂
 - [Twizzle - Social Media App](https://github.com/radoleon/Twizzle-social-media)
