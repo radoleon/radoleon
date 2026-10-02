@@ -15,3 +15,7 @@ Based in Bratislava, Slovakia. Currently studying computer science at STU FIIT a
 - [Threadly - Realtime Chat Application](https://github.com/radoleon/STU-FIIT/tree/main/VPWA/realtime%20chat)
 
 Most recent projects can be found in my school work repository [STU FIIT](https://github.com/radoleon/STU-FIIT) 🏢
+
+---
+
+[![Top Langs]( https://github-stats-extended.vercel.app/api/top-langs/?username=radoleon&theme=github_dark_dimmed&langs_count=10&hide=html,css,jupyter%20notebook,blade)](https://github.com/anuraghazra/github-readme-stats)
